@@ -1,2 +1,1 @@
-print(naber kofteli)
-print('phyton ile ilk günüm')
+print('python ile ilk günüm')
