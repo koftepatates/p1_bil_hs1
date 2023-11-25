@@ -323,3 +323,11 @@ sehirler = ["Adana","Adıyaman","Afyonkarahisar","Ağrı","Aksaray","Amasya","An
 #         print("Kaybettin!")
 #     else:
 #         print("Berabere!")
+# def fonksiyonum():
+#     print("Merhaba")
+#     print("Dünya")
+# fonksiyonum()
+# meyveler = ["Elma", "Armut", "Şeftali"]
+# for meyve in meyveler:
+#     print(meyve)
+_abs_(-7)

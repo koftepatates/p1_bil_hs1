@@ -1,0 +1,5 @@
+ 
+kısakenar = int(input("kısa kenarı giriniz."))
+uzunkenar = int(input("uzun kenarı giriniz."))
+print("çevre = (kısakenar + uzunkenar) * 2")
+print("alan = (kısakenar * uzunkenar)")
